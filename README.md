@@ -1,4 +1,4 @@
-# PDF-extracter
+# PDF-extractor
 
 
 This script receives PDF through a url and parse it.
